@@ -1,2 +1,2 @@
 # PhpWebServer
-a simple pure php web server
+A simple pure php web server(from [http://station.clancats.com/writing-a-webserver-in-pure-php/](http://station.clancats.com/writing-a-webserver-in-pure-php/))
